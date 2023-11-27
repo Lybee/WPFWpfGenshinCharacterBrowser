@@ -1,0 +1,2 @@
+# WPFWpfGenshinCharacterBrowser
+GenshinCharacterBrowser
